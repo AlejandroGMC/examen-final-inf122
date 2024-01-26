@@ -1,1 +1,0 @@
-id del Pokemon: 200
