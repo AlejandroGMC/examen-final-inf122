@@ -24,12 +24,11 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-      <Image
-          className={styles.logo}
-          src="/workspaces/examen-final-inf122/public/image 6.png"
+      <Image className={styles.logo}
+          src="/image 6.svg"
           alt="imagen"
-          width={180}
-          height={37}
+          width={400}
+          height={400}
           priority
         />
       </div>
